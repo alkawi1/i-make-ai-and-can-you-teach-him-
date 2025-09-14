@@ -1,3 +1,5 @@
+# My email is thedudee135@gmail.com btw
+
 # Simple Teach-able AI in Python
 
 This is a basic command-line AI program written in Python.  
